@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -39,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
