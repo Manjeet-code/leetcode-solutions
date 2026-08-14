@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0409-longest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
