@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
