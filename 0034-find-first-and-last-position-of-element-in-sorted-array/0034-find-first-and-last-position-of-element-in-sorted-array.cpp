@@ -1,49 +1,46 @@
 class Solution {
 public:
-
-    int findFirst(vector<int>& nums, int target) {
-        int lo= 0, hi = nums.size() - 1;
-        int ans = -1;
-
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;
-                hi = mid - 1; // move left
-            }
-            else if (nums[mid] < target) {
-                lo = mid + 1;
-            }
-            else {
-                hi = mid - 1;
-            }
+int first(vector<int>& nums, int target){
+    int n = nums.size();
+    int low = 0;
+    int high = n-1;
+    int res = -1;
+    while(low<=high){
+        int guess = (low+high)/2;
+        if(nums[guess]<target){
+            low = guess+1;
         }
-        return ans;
-    }
-
-    int findLast(vector<int>& nums, int target) {
-        int lo = 0, hi = nums.size() - 1;
-        int ans = -1;
-
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;
-                lo = mid + 1; // move right
-            }
-            else if (nums[mid] < target) {
-                lo = mid + 1;
-            }
-            else {
-                hi = mid - 1;
-            }
+        else if(nums[guess]>target){
+            high = guess-1;
         }
-        return ans;
+        else{
+            res = guess;
+            high = guess-1;
+        }
     }
-
+    return res;
+}
+int last(vector<int>& nums, int target){
+    int n = nums.size();
+    int low = 0;
+    int high = n-1;
+    int res = -1;
+    while(low<=high){
+        int guess = (low+high)/2;
+        if(nums[guess]<target){
+            low = guess+1;
+        }
+        else if(nums[guess]>target){
+            high = guess-1;
+        }
+        else{
+            res = guess;
+            low = guess+1;
+        }
+    }
+    return res;
+}
     vector<int> searchRange(vector<int>& nums, int target) {
-        return {findFirst(nums, target), findLast(nums, target)};
+        return{first(nums,target),last(nums,target)};
     }
 };
