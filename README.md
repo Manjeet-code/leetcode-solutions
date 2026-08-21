@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Monotonic Stack
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manjeet-code/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
