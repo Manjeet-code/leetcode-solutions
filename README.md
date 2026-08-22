@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Monotonic Stack
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
 |  |
 | ------- |
