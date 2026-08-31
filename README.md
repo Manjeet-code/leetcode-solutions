@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Queue
 |  |
 | ------- |
@@ -61,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
