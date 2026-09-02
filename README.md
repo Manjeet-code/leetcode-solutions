@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Queue
 |  |
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
