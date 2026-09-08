@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0504-base-7](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0504-base-7) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0504-base-7](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/Manjeet-code/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Memoization
