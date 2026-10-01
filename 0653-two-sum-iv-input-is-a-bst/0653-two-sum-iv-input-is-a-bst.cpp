@@ -1,37 +1,82 @@
 class Solution {
 public:
-    vector<int> temp;
 
-    void fun(TreeNode* root) {
-        if (root == NULL)
-            return;
+    stack<TreeNode*> asc;
+    stack<TreeNode*> desc;
 
-        fun(root->left);
-        temp.push_back(root->val);
-        fun(root->right);
+    // Get next smallest element
+    TreeNode* getSmall() {
+
+        if (asc.empty())
+            return NULL;
+
+        TreeNode* small = asc.top();
+        asc.pop();
+
+        TreeNode* rightChild = small->right;
+
+        while (rightChild) {
+            asc.push(rightChild);
+            rightChild = rightChild->left;
+        }
+
+        return small;
+    }
+
+    // Get next largest element
+    TreeNode* getBig() {
+
+        if (desc.empty())
+            return NULL;
+
+        TreeNode* big = desc.top();
+        desc.pop();
+
+        TreeNode* leftChild = big->left;
+
+        while (leftChild) {
+            desc.push(leftChild);
+            leftChild = leftChild->right;
+        }
+
+        return big;
     }
 
     bool findTarget(TreeNode* root, int k) {
 
-        // Inorder traversal gives sorted array
-        fun(root);
+        if (root == NULL)
+            return false;
 
-        int i = 0;
-        int j = temp.size() - 1;
+        // Initialize ascending stack
+        TreeNode* t = root;
 
-        while (i < j) {
+        while (t) {
+            asc.push(t);
+            t = t->left;
+        }
 
-            int sum = temp[i] + temp[j];
+        // Initialize descending stack
+        t = root;
 
-            if (sum == k) {
+        while (t) {
+            desc.push(t);
+            t = t->right;
+        }
+
+        TreeNode* i = getSmall();
+        TreeNode* j = getBig();
+
+        while (i && j && i != j) {
+
+            int sum = i->val + j->val;
+
+            if (sum == k)
                 return true;
-            }
-            else if (sum < k) {
-                i++;
-            }
-            else {
-                j--;
-            }
+
+            if (sum > k)
+                j = getBig();
+            else
+                i = getSmall();
         }
 
         return false;
