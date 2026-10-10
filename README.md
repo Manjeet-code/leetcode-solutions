@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -323,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -346,5 +353,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
