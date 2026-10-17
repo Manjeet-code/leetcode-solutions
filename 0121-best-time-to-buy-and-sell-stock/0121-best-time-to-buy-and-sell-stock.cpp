@@ -1,26 +1,22 @@
 class Solution {
 public:
-    int fun(vector<int>& prices ,int n,int i,int k,vector<vector<int>>& dp){
-        if(i==n)
-            return 0;
-        if(k==0)
-            return 0;
-        if(dp[i][k]!=-1) return dp[i][k];    
-        if(k==2){ //buy
-            int c1 = fun(prices,n,i+1,k-1,dp) - prices[i];
-            int c2 = fun(prices,n,i+1,k,dp);
-            return dp[i][k] =  max(c1,c2);
-        }  
-        else{ // sell
-        int c1 = fun(prices,n,i+1,k-1,dp) + prices[i];
-        int c2 = fun(prices,n,i+1,k,dp);
-            return dp[i][k] =  max(c1,c2);
-        }      
-    }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        int k = 2 ;// two transaction initially
-        vector<vector<int>>dp(n+1,vector<int>(k+1,-1));
-        return fun(prices,n,0,k,dp);
+
+        // dp[i][2] = Buy state
+        // dp[i][1] = Sell state
+        vector<vector<int>> dp(n + 1, vector<int>(3, 0));
+
+        for (int i = n - 1; i >= 0; i--) {
+            // Buy: buy today or skip
+            dp[i][2] = max(-prices[i] + dp[i + 1][1],
+                           dp[i + 1][2]);
+
+            // Sell: sell today or skip
+            dp[i][1] = max(prices[i],
+                           dp[i + 1][1]);
+        }
+
+        return dp[0][2];
     }
 };
