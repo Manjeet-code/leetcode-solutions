@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
