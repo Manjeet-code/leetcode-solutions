@@ -3,9 +3,8 @@ public:
     bool isPowerOfFour(int n) {
         if(n<1) return false;
         if(n==1) return true;
-        while(n%4==0){
-            n=n/4;
-        }
-        return n==1;
+        int x = log(n)/log(4);
+        if(pow(4,x)==n) return true;
+        else return false;
     }
 };
