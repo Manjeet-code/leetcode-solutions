@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2409-count-days-spent-together](https://github.com/Manjeet-code/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manjeet-code/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Manjeet-code/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [2409-count-days-spent-together](https://github.com/Manjeet-code/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3870-count-commas-in-range](https://github.com/Manjeet-code/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Manjeet-code/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Memoization
